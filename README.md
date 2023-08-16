@@ -39,16 +39,11 @@ node index.js
 ```
 
 Then the inquirer will begin asking you questions about your project.
-`md
-    ![Example of the terminal running the inquirer questions](Develop/images/screenshot1.png)
-    `
+![Example of the terminal running the inquirer questions](Develop/images/screenshot1.png)
+
 Once you have completed the questions, a file will be generated using markdown syntax with your project title and information.
-`md
     ![Example of a mark down file being generated with your title](Develop/images/screenshot2.png)
-    `
-`md
     ![Example of the markdown file that will be generated after completing the inquirer questions](Develop/images/screenshot3.png)
-    `
 
 ## Credits
 
